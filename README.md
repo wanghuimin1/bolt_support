@@ -1,0 +1,2 @@
+# bolt_support
+对于微服务架构bolt底层代码整合，需要提前打包导入本地maven
